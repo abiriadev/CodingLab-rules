@@ -10,12 +10,12 @@
   코딩 연구소 멤버가 아니더라도 누구나 참여해 읽거나 수정할 수 있습니다.
 ```
 
-## link
+## Invite link
 >**[Coding lab invite link](https://discord.gg/UXHqMFm, "codeing lab invite link")**
 
 ## What is Codeing lab?
 
-Coding Lab is a  discord guild made up of people who likes coding and enjoy.   
+Coding Lab is a discord guild made up of people who likes coding and enjoy.   
 코딩 연구소는 코딩을 좋아하는 사람들로 구성된 디스코드 서버입니다.
 
 We believe freely space is important than coding.   
@@ -49,7 +49,21 @@ I hope you can chat freely with other developers and have a healing time!
 
 >+ 추방당한 회원과 그 사유는 📌추방-공지 에 공지된다.
 
-6. 💨도배방 이외의 곳에서 도배를 하면 2개의 경고를 준다.
+6. 💨도배방 이외의 곳에서 도배를 하면 2번의 경고를 준다.
+
+7. 다른 회원에게 지나치게 무례한 발언이나 행위를 한다고 판단될 경우 추방할 수 있다.
+
+8. 정치적 발언을 하는 사람은 무조건 추방한다.
+
+9. 채팅방의 규칙이나 주제에 넘는 대화가 지속될 경우 관리자가 개입할 수 있다.
+
+10. 본인이 개발한 프로젝트를 올리는 것은 허용하나, 과도한 홍보일 경우 경고를 준다.
+
+11. 반모 등의 친목 행위는 무조건 허용하지 않는다.
+
+12. 사칭 행위를 금한다.
+
+13. 이 모든 규칙에 불복할 경우, 바로 차단한다.
 
 ## Participate
 
