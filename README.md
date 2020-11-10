@@ -37,6 +37,8 @@ I hope you can chat freely with other developers and have a healing time!
 
 1. 이 모든 규칙에 불복할 경우, #📭건의 에 이의를 제기할 수 있으며, 건의 후 내린 결론 후에도 동의하지 않을 경우 심한 경고를 주며, 그 후에도 계속 동의하지 않을 경우, 1회 추방한다.
 
+2. 관리자는 DENESOR가 유일하다.
+
 ### side-rules
 
 - 서버 관련 규칙: side-rules/guild-rules.md
