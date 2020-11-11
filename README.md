@@ -43,7 +43,11 @@ I hope you can chat freely with other developers and have a healing time!
 
 - 서버 관련 규칙: side-rules/guild-rules.md
 
+[https://github.com/abiriadev/CodingLab-rules/blob/main/side-rules/guild-rules.md](https://github.com/abiriadev/CodingLab-rules/blob/main/side-rules/guild-rules.md, "codeing lab guild rules")
+
 - 채널 관련 규칙: side-rules/channel-rules.md
+
+[https://github.com/abiriadev/CodingLab-rules/blob/main/side-rules/channel-rules.md](https://github.com/abiriadev/CodingLab-rules/blob/main/side-rules/channel-rules.md, "codeing lab channel rules")
 
 ## Participate
 
