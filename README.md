@@ -39,6 +39,8 @@ I hope you can chat freely with other developers and have a healing time!
 
 2. 관리자는 DENESOR가 유일하다.
 
+>+ 임시로 다른 관리자가 서버를 관리할 수는 있다.
+
 ### side-rules
 
 - 서버 관련 규칙: side-rules/guild-rules.md
