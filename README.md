@@ -15,7 +15,7 @@
 
 ## Invite link
 
-> **[Coding lab invite link](https://discord.gg/UXHqMFm, "codeing lab invite link")**
+> **[Coding lab invite link](https://discord.gg/aQADWwN "coding lab invite link")**
 
 ## What is Codeing lab?
 
@@ -26,7 +26,7 @@ We believe freely space is important than coding.
 코딩보다 더 중요한 것은 자유로운 공간이라는 생각으로,
 
 So we respect your taste, and it is place where people from various fields gather to talk and hang out.  
-여러분들의 취향을 존중하며, 다양한 분야의 분들이 함께 와서 모여서 수다를 하기 위한 공간입니다!
+여러분들의 취향과 생각을 존중하며, 다양한 분야의 분들이 함께 와서 모여서 수다를 하기 위한 공간입니다!
 
 I hope you can chat freely with other developers and have a healing time!  
 다른 분들과 같이 자유롭게 떠들며 치유의 시간을 보내셨으면 좋겠습니다!
